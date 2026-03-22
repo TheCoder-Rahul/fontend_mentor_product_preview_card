@@ -24,22 +24,22 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Design screenshot](https://github.com/TheCoder-Rahul/fontend_mentor_recipe_page/blob/main/project_screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- 👉 [Solution URL](https://github.com/TheCoder-Rahul/fontend_mentor_recipe_page.git)
+- 👉 [Live Site URL](https://thecoder-rahul.github.io/fontend_mentor_recipe_page/)
 
 ## My process
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
+- 👉 **Markup:** Semantic HTML5 for better accessibility and SEO.
+- 👉 **Styling:** CSS3 with Custom Properties (variables) for a maintainable color scheme, font-properties, and different sizes.
+- 👉 **Layout:** Flexbox for centering the card and managing the internal alignment.
+- 👉 **Typography:** Local font integration using @font-face for performance and privacy.
+- 👉 **Workflow:** Mobile-first approach and Responsive Design using Media Queries.
 
 ### What I learned
 
