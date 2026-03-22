@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+  --bold-font: 700;
+  --medium-font: 500;
+  --fs-primary: 1rem;
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-body-bg: hsl(30, 38%, 92%);
+  --clr-primary: hsl(158, 36%, 37%);
+  --clr-neutral: hsl(212, 21%, 14%);
+  --clr-secondary: hsl(228, 12%, 48%);
+  --clr-primary-dark: hsl(158, 42%, 18%);
+  --secondary-font: 'Fraunces', serif;
+  --primary-font: 'Montserrat', sans-serif;
+}
+body {
+  font-family: var(--primary-font);
+  background-color: var(--clr-body-bg);
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: var(--clr-primary); }
