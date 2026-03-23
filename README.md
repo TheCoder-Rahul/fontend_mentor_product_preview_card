@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Design screenshot](https://github.com/TheCoder-Rahul/fontend_mentor_recipe_page/blob/main/project_screenshot.png)
+![Design screenshot](https://github.com/TheCoder-Rahul/fontend_mentor_product_preview_card/blob/main/project_screenshot.png)
 
 ### Links
 
-- 👉 [Solution URL](https://github.com/TheCoder-Rahul/fontend_mentor_recipe_page.git)
-- 👉 [Live Site URL](https://thecoder-rahul.github.io/fontend_mentor_recipe_page/)
+- 👉 [Solution URL](https://github.com/TheCoder-Rahul/fontend_mentor_product_preview_card.git)
+- 👉 [Live Site URL](https://thecoder-rahul.github.io/fontend_mentor_product_preview_card/)
 
 ## My process
 
