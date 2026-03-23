@@ -38,14 +38,11 @@ Users should be able to:
 - 👉 **Markup:** Semantic HTML5 for better accessibility and SEO.
 - 👉 **Styling:** CSS3 with Custom Properties (variables) for a maintainable color scheme, font-properties, and different sizes.
 - 👉 **Layout:** Flexbox for centering the card and managing the internal alignment.
-- 👉 **Typography:** Local font integration using @font-face for performance and privacy.
 - 👉 **Workflow:** Mobile-first approach and Responsive Design using Media Queries.
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
+Check the code snippets attached below:
 
 ```html
 <main>
